@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\bin\Debug\to_the_max.exe.config
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\bin\Debug\to_the_max.exe
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\bin\Debug\to_the_max.pdb
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\obj\Debug\to_the_max.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\obj\Debug\to_the_max.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\obj\Debug\to_the_max.exe
+C:\Users\rtoles\Desktop\To_the_max\to_the_max\to_the_max\obj\Debug\to_the_max.pdb
